@@ -1,0 +1,48 @@
+header{
+	background-image: url(imagess/green.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+	height: 400px;
+}
+
+
+
+nav{
+	background-color: green;
+
+}
+
+nav .row .col:hover{
+	background-color: #42f477
+
+
+}
+
+img{
+	width: 100%;
+} 
+
+a{
+	color: lightgreen;
+}
+
+a:hover{
+	color: white;
+}
+
+h1{
+	background-color: green;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
